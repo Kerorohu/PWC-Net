@@ -34,42 +34,7 @@ PWC-Net fuses several classic optical flow estimation techniques, including imag
 [Talk at CVPR 2018 conference](https://youtu.be/LBJ20kxr1a0?t=421)
  
 
-If you use PWC-Net, please cite the following paper: 
-```
-@InProceedings{Sun2018PWC-Net,
-  author    = {Deqing Sun and Xiaodong Yang and Ming-Yu Liu and Jan Kautz},
-  title     = {{PWC-Net}: {CNNs} for Optical Flow Using Pyramid, Warping, and Cost Volume},
-  booktitle = CVPR,
-  year      = {2018},
-}
-```
-or the arXiv paper
-```
-@article{sun2017pwc,
-  author={Sun, Deqing and Yang, Xiaodong and Liu, Ming-Yu and Kautz, Jan},
-  title={{PWC-Net}: {CNNs} for Optical Flow Using Pyramid, Warping, and Cost Volume},
-  journal={arXiv preprint arXiv:1709.02371},
-  year={2017}
-}
-```
-or the updated and extended version
-```
-@article{Sun2018:Model:Training:Flow,
-  author={Sun, Deqing and Yang, Xiaodong and Liu, Ming-Yu and Kautz, Jan},
-  title={Models Matter, So Does Training: An Empirical Study of CNNs for Optical Flow Estimation},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)},
-  note = {to appear}
-}
-```
-For multi-frame flow, please also cite
-```
-@inproceedings{ren2018fusion,
-  title={A Fusion Approach for Multi-Frame Optical Flow Estimation},
-  author={Ren, Zhile and Gallo, Orazio and Sun, Deqing and Yang, Ming-Hsuan and Sudderth, Erik B and Kautz, Jan},
-  booktitle={Proceedings of the IEEE Winter Conference on Applications of Computer Vision (WACV)},
-  year={2019}
-}
-```
+
 ### Related Work from NVIDIA 
 [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch)
 
